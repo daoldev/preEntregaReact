@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "name": "Budin de limon",
+        "price": 4500,
+        "category": "Dulce",
+        "description": "Budin casero de limon con glaseado",
+    "imageUrl": "/images/budin-de-limon.png"
+    },
+    {
+        "id": "2",
+        "name": "Pan de masa madre",
+        "price": 3200,
+        "category": "Salado",
+        "description": "Pan artesanal de masa madre",
+    "imageUrl": "/images/pan-masa-madre.png"
+    },
+    {
+        "id": "3",
+        "name": "Croissant",
+        "price": 1200,
+        "category": "Dulce",
+        "description": "Croissant frances con manteca",
+    "imageUrl": "/images/croissant.png"
+    },
+    {
+        "id": "4",
+        "name": "Torta de chocolate",
+        "price": 5500,
+        "category": "Dulce",
+        "description": "Torta humeda de chocolate con dulce de leche",
+    "imageUrl": "/images/torta-chocolate.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Empanada gallega",
+        "price": 2800,
+        "category": "Salado",
+        "description": "Empanada rellena de atun, cebolla y pimientos",
+    "imageUrl": "/images/empanada-gallega.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Macaron",
+        "price": 800,
+        "category": "Dulce",
+        "description": "Macaron frances de almendras",
+    "imageUrl": "/images/macaron.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Sandwich de jamon y queso",
+        "price": 2500,
+        "category": "Salado",
+        "description": "Sandwich de jamon cocido y queso",
+    "imageUrl": "/images/sandwich-jamon-queso.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Alfajor de maicena",
+        "price": 1000,
+        "category": "Dulce",
+        "description": "Alfajor de maicena relleno de dulce de leche",
+    "imageUrl": "/images/alfajor-maicena.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Focaccia",
+        "price": 3000,
+        "category": "Salado",
+        "description": "Focaccia italiana con aceite de oliva y hierbas",
+    "imageUrl": "/images/focaccia.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Brownie",
+        "price": 1500,
+        "category": "Dulce",
+        "description": "Brownie de chocolate con nueces",
+    "imageUrl": "/images/brownie.jpg"
+    },
+    {
+        "id": "11",
+        "name": "Quiche Lorraine",
+        "price": 4000,
+        "category": "Salado",
+        "description": "Quiche Lorraine con panceta y queso",
+    "imageUrl": "/images/quiche-lorraine.jpg"
+    },
+    {
+        "id": "12",
+        "name": "Muffin de arandanos",
+        "price": 1300,
+        "category": "Dulce",
+        "description": "Muffin de arandanos con crumble",
+    "imageUrl": "/images/muffin-arandanos.jpg"
+    },
+    {
+        "id": "13",
+        "name": "Wrap de pollo",
+        "price": 3500,
+        "category": "Salado",
+        "description": "Wrap de pollo con vegetales y salsa",
+    "imageUrl": "/images/wrap-pollo.jpg"
+    },
+    {
+        "id": "14",
+        "name": "Cookie de chocolate",
+        "price": 900,
+        "category": "Dulce",
+        "description": "Cookie de chocolate con chips",
+    "imageUrl": "/images/cookie-chocolate.jpg"
+    },
+    {
+        "id": "15",
+        "name": "Tarta de verduras",
+        "price": 3800,
+        "category": "Salado",
+        "description": "Tarta de verduras de estación",
+    "imageUrl": "/images/tarta-verduras.jpg"
+    }
+]

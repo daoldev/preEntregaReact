@@ -1,0 +1,100 @@
+/* Footer estilizado para Clase 08 */
+.site-footer {
+	background: linear-gradient(180deg, #1f2937 0%, #111827 100%);
+	color: #e6eef8;
+	padding: 2.5rem 1rem;
+	font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+}
+
+.site-footer .container {
+	max-width: 1100px;
+	margin: 0 auto;
+	display: flex;
+	gap: 2rem;
+	align-items: flex-start;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.site-footer .brand {
+	flex: 1 1 220px;
+}
+.site-footer .brand h3 {
+	margin: 0 0 0.5rem 0;
+	color: #fff;
+	font-size: 1.25rem;
+}
+.site-footer .brand p {
+	margin: 0;
+	color: #cbd5e1;
+	font-size: 0.95rem;
+}
+
+.site-footer .links {
+	display: flex;
+	gap: 2rem;
+	flex: 2 1 420px;
+}
+.site-footer .links ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.site-footer .links li {
+	margin-bottom: 0.6rem;
+}
+.site-footer .links a {
+	color: #cbd5e1;
+	text-decoration: none;
+	transition: color 0.15s ease;
+}
+.site-footer .links a:hover {
+	color: #fff;
+}
+
+.site-footer .credit {
+	width: 100%;
+	margin-top: 1.5rem;
+	text-align: center;
+	color: #94a3b8;
+	font-size: 0.9rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 720px) {
+	.site-footer .container {
+		flex-direction: column;
+		align-items: center;
+		text-align: center;
+	}
+	.site-footer .links {
+		flex-direction: column;
+		gap: 1rem;
+	}
+	.site-footer .brand {
+		margin-bottom: 1rem;
+	}
+}
+
+/* Small subtle separator for the very bottom */
+.site-footer .credit::before {
+	content: '';
+	display: block;
+	height: 1px;
+	width: 60px;
+	background: rgba(255,255,255,0.06);
+	margin: 0.6rem auto 0.6rem auto;
+}
+
+/* Simple style for a single <p> footer (fallback or minimal footer) */
+footer p,
+.site-footer p {
+	margin: 0;
+	padding: 12px 1rem;
+	text-align: center;
+	background: #0f1724; /* dark background */
+	color: #e6eef8; /* light text */
+	font-size: 0.95rem;
+	border-top: 1px solid rgba(255,255,255,0.04);
+}
+
