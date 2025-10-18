@@ -2,6 +2,8 @@
 
 Esta pre-entrega contiene una SPA con React + Vite que muestra productos, permite ver detalles y sumar al carrito.
 
+##🚀Despliegue en netlify: https://mercaditodeolaso.netlify.app/
+
 ---
 
 ## ✨ Autor
