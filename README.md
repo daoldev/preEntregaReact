@@ -1,6 +1,6 @@
-# 🍰 Tienda de Comida — Clase 08
+# 🍰 Tienda de Comida - Mercaditodeolaso
 
-Versión del proyecto para la Clase 08. Contiene una SPA con React + Vite que muestra productos, permite ver detalles y sumar al carrito.
+Esta pre-entrega contiene una SPA con React + Vite que muestra productos, permite ver detalles y sumar al carrito.
 
 ---
 
@@ -30,5 +30,5 @@ npm install
 npm run dev
 ```
 
-3. Abre `http://localhost:5173/` en tu navegador.
+3. Abre `http://localhost:5173/`
 ---
